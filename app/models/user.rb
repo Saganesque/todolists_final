@@ -1,6 +1,6 @@
 class User < ActiveRecord::Base
 
-
+has_secure_password
 
 
   def get_completed_count
