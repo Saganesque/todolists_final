@@ -1,0 +1,7 @@
+      invoke  active_record
+      create    db/migrate/20160214232201_create_todo_items.rb
+   identical    app/models/todo_item.rb
+      invoke    test_unit
+   identical      test/models/todo_item_test.rb
+    conflict      test/fixtures/todo_items.yml
+    Overwrite /home/shannon/SaganesqueClasses/ActiveRecordClass/todolists/test/fixtures/todo_items.yml? (enter "h" for help) [Ynaqdh] 
