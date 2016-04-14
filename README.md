@@ -13,7 +13,7 @@ manage TodoItems.
 
 1. Start with the application completed in module 2. This will have defined 
 all the models and relationships required for this assignment:
-
+    
     * User
     * TodoList
     * TodoItem
